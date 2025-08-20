@@ -1,3 +1,4 @@
+![profile](https://github.com/user-attachments/assets/c1cb578a-b786-455a-9419-93837a830d96)
 👋 Hi, I'm Sandeep Yadav!
 
 🚀 Full Stack Developer skilled in MERN Stack, C, Java, SQL                                         
